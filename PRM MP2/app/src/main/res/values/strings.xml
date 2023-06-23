@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Wish List</string>
+    <string name="type_name_hint">Type Name Here</string>
+    <string name="type_latin_name_hint">Select Location</string>
+    <string name="type_info_hint">Type info here</string>
+    <string name="save">save</string>
+    <string name="add">ADD</string>
+    <string name="edit">EDIT</string>
+    <string name="zoo_description">Icon showing wishlist.</string>
+    <string name="icon">Icon product.</string>
+    <string name="confirm_delete_title">Confirm Delete</string>
+    <string name="confirm_delete_message">Are you sure you want to delete %1$s?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="info">info</string>
+    <string name="loc">location</string>
+    <string name="name">name</string>
+    <string name="address_placeholder">%1$s %2$s %3$s</string>
+
+</resources>

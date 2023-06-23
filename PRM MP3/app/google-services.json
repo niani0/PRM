@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095870950649",
+    "project_id": "mp3-test-14666",
+    "storage_bucket": "mp3-test-14666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095870950649:android:4275838d63348ca26d0628",
+        "android_client_info": {
+          "package_name": "com.example.mp3test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095870950649-d1q58n3sne05pbrudosutteq7l3bcbnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnnvY-HZYkN4ij7XHAWH0ZlckQuwivsfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095870950649-d1q58n3sne05pbrudosutteq7l3bcbnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
